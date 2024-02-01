@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @MajidHws
-- 👀 I’m interested in WEB3, DATA SCIENCE 
-- 🌱 I’m currently learning BLOCKCHAIN
-- 💞️ I’m looking to collaborate on WEB3
+- 👀 I’m interested in AI, DATA ENGINEERING 
 - 📫 How to reach me majidhws@gmail.com
 
 <!---
